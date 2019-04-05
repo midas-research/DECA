@@ -1,0 +1,16 @@
+
+# Audio Encoder
+
+SEQ_LEN = 1
+AUDIO_OUTPUT = 256
+BATCH = 100
+HIDDEN_SIZE_AUDIO = 256
+NUM_LAYERS_AUDIO = 2
+AUDIO_PATH = '../dataset/audios/'
+
+# Noise Encoder
+
+NOISE_OUTPUT = 10
+BATCH = 38
+HIDDEN_SIZE_NOISE = 10
+NUM_LAYERS_NOISE = 1
