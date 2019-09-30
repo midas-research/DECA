@@ -22,7 +22,10 @@ torchaudio
 
 For running the Visual Speech Recognition model, run the following command to train the model (for one view model):
 ```
-CUDA_VISIBLE_DEVICES=1 python 1stream.py --data_pickle_path "Path to the picke file(without quotes)" --num_epoch 40 --num_classes 10  --one_stream_view 1
+CUDA_VISIBLE_DEVICES=1 python 1stream.py --data_pickle_path "Path to the picke file(without quotes)" \
+--num_epoch 40 \
+--num_classes 10  \
+--one_stream_view 1
 ```
 Please check the python file for details about various parameters. 
 
