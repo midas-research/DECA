@@ -1,7 +1,8 @@
 # DECA
 Data Extension and Class Addition for VSR
 
-Code for paper: Harnessing GANs for Addition of New Classes in VSR
+Code for paper: **Harnessing GANs for Addition of New Classes in VSR**
+
 Link to paper: https://arxiv.org/abs/1901.10139
 
 
