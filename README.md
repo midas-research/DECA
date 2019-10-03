@@ -24,7 +24,7 @@ For running the A2V model, run the following command
 ```
 CUDA_VISIBLE_DEVICES=1 python driver.py
 ``` 
-For training change following lines:
+For training and video generation change following lines:
 
 * Epochs-> line 78 | num_epochs (variable name)
 
