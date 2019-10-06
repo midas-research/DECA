@@ -4,6 +4,7 @@ Data Extension and Class Addition for VSR
 Code for paper: **Harnessing GANs for Addition of New Classes in VSR**
 
 Link to paper: https://drive.google.com/open?id=13xofvtwqOAXWgjOYu8EFaeMQBTKiB0T7
+
 Link to the supplementary folder: https://drive.google.com/open?id=1nMgRuyM9juztd_fOzTH62X1v1eTh4R5u
 
 Full supplementary files containing all examples: https://drive.google.com/drive/folders/13oPBUgOG3itRcztUNI8ItyE71Zvhqe-a?usp=sharing 
