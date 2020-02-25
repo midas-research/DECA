@@ -51,7 +51,14 @@ For generating the pickle file look at pre_process_oulu.py
 
 # How to cite?
 
-Under review
+@misc{kumar2019harnessing,
+    title={Harnessing GANs for Zero-shot Learning of New Classes in Visual Speech Recognition},
+    author={Yaman Kumar and Dhruva Sahrawat and Shubham Maheshwari and Debanjan Mahata and Amanda Stent and Yifang Yin and Rajiv Ratn Shah and Roger Zimmermann},
+    year={2019},
+    eprint={1901.10139},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
 
 # Contact us
 
